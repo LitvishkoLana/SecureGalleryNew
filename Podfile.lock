@@ -1,0 +1,24 @@
+PODS:
+  - Kingfisher (7.4.1)
+  - OpalImagePicker (3.0.0)
+  - R.swift (7.2.4)
+
+DEPENDENCIES:
+  - Kingfisher (~> 7.0)
+  - OpalImagePicker
+  - R.swift
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - OpalImagePicker
+    - R.swift
+
+SPEC CHECKSUMS:
+  Kingfisher: cd762a593a61b2fbecf7645c00f9a801a3ebfc9c
+  OpalImagePicker: 38e772dd93a54431fc516b33e1f337c50f745834
+  R.swift: 681bb9135f482e7a81d9d27445b837fef5467e11
+
+PODFILE CHECKSUM: 340506f785e1ef9bbc6857bd8076626fdb602232
+
+COCOAPODS: 1.11.3

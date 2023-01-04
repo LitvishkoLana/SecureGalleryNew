@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7mX-WW-9sg"; */
+"7mX-WW-9sg.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "CLOSE"; ObjectID = "9Af-g3-9VY"; */
+"9Af-g3-9VY.configuration.title" = "ЗАКРЫТЬ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9Af-g3-9VY"; */
+"9Af-g3-9VY.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Button Over Keyboard"; ObjectID = "bSC-Dt-bUG"; */
+"bSC-Dt-bUG.configuration.title" = "Кнопка над клавиатурой";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bSC-Dt-bUG"; */
+"bSC-Dt-bUG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Secure Gallery"; ObjectID = "iWo-DS-ZaD"; */
+"iWo-DS-ZaD.text" = "Безопасная Галерея";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pP2-V3-uZe"; */
+"pP2-V3-uZe.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pW8-gp-Ghm"; */
+"pW8-gp-Ghm.normalTitle" = "Button";

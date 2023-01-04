@@ -1,0 +1,30 @@
+
+// Load image button
+"Load image" = "Load image";
+
+// translation of Camera
+"localizationCamera" = "Camera";
+
+// translation of PhotoLibrary
+"localizationPhoto" = "Photo Library";
+
+// translation of URL
+"localizationURL" = "URL";
+
+// translation of Cancel
+"localizationCancel" = "Cancel";
+
+// translation of Enter URL alert
+"localizationEnterURL" = "Enter URL";
+
+// translation of imagePickerControllerDidCancel alert title
+"localizationAlertTitle" = "Strange";
+
+// translation of imagePickerControllerDidCancel alert message
+"localizationAlertMessage" = "You didn't pick any image";
+
+// translation of imagePickerControllerDidCancel okAction alert title
+"localizationOkActionAlertTitle" = "I know";
+
+// translation of pinFild password
+"localizationPassword" = "Password";

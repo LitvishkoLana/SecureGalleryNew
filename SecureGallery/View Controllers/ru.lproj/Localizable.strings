@@ -1,0 +1,30 @@
+
+// Load image button
+"Load image" = "Загрузка изображения";
+
+// translation of Camera
+"localizationCamera" = "Камера";
+
+// translation of PhotoLibrary
+"localizationPhoto" = "Библиотека фотографий";
+
+// translation of URL
+"localizationURL" = "Ссылка";
+
+// translation of Cancel
+"localizationCancel" = "Отмена";
+
+// translation of Enter URL alert
+"localizationEnterURL" = "Ввести ссылку";
+
+// translation of imagePickerControllerDidCancel alert title
+"localizationAlertTitle" = "Странно";
+
+// translation of imagePickerControllerDidCancel alert message
+"localizationAlertMessage" = "Вы не выбрали ни одного изображения";
+
+// translation of imagePickerControllerDidCancel okAction alert title
+"localizationOkActionAlertTitle" = "Я знаю";
+
+// translation of pinFild password
+"localizationPassword" = "Пароль";
